@@ -1,0 +1,17 @@
+console.log('');
+console.log('');
+console.log('I\'m Valentin Roudge');
+console.log('');
+console.log('I do NodeJS since 2011');
+console.log('');
+console.log('CTO of 180gram.io 💽  💽  💽 ');
+console.log('');
+console.log('Creator of MorphlingJS');
+console.log('');
+console.log('Currently working @ Yellow Innovation as React-Native/NodeJS dev');
+console.log('');
+console.log('');
+console.log('Fork me on GitHub! 👍 ');
+console.log('github.com/vroudge');
+console.log('');
+console.log('');
